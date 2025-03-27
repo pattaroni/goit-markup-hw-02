@@ -69,21 +69,21 @@ address {
 .button:hover, .button:focus {
     background-color: #404bbf;
 }
-.h3 {
+.header {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
     line-height: 1.2;
     color: #2e2f42;
 }
-.h3-title {
+/* .h3-title {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
     line-height: 1.2;
     color: #2e2f42;
-}
-.parargraph {
+} */
+.paragraph {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
