@@ -35,14 +35,14 @@ ul {
 address {
     font-style: normal;
 }
-.mail, .number {
+.contact {
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
     list-style-type: none;
     text-decoration: none;
 }
-.mail:hover, .number:hover, .mail:focus, .number:focus {
+.contact:hover, .contact:focus {
     color: #404bbf;
 }
 .section-order {
@@ -73,13 +73,17 @@ address {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
-    line-height: 1.2
+    line-height: 1.2;
+    color: #2e2f42;
 }
 .parargraph {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-size: 16px
+    font-size: 16px;
+}
+.team {
+    background-color: #FFFFFF;
 }
 .section-team {
     background-color: #f4f4fd;
@@ -90,7 +94,8 @@ address {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 .footer {
     background-color: #2e2f42;
